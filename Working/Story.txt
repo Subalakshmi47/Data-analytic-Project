@@ -1,0 +1,4 @@
+Story 
+    Link 1: https://eu2.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FMedical%2Bcare%2Bcost%2Bstory&action=view&mode=dashboard
+    Link 2: https://eu2.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FMedical%2Bcare%2Bcost%2Bstory1&action=view&mode=dashboard
+    Link 3: https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FMedical_cost_dashboard&action=view&mode=dashboard
